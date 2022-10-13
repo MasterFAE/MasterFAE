@@ -28,7 +28,7 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
   * Tailwind
 
 📫 Reach me:
-  *  sinangurcan26@hotmail.com
-  * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinan-gurcan/)  
+  -  sinangurcan26@hotmail.com
+  -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinan-gurcan/)  
  
 
