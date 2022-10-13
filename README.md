@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 ### Sinan Gürcan
 Hey, my name is Sinan. I'm full-stack software developer living in Turkey.
 I'm 21 years old and currently studying Computer Engineering in Eskisehir Technical University.
-
+  
+  <hr />
+  
 ⚡Techs I use:
   * TypeScript
   * React
@@ -26,9 +28,11 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
   * Nest
   * Socket.io
   * Tailwind
+  
+  <hr />
 
 📫 Reach me:
-  -  sinangurcan26@hotmail.com
-  -  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinan-gurcan/)  
+  -  <img src="https://unpkg.com/simple-icons@7.15.0/icons/gmail.svg" height="40" alt="mail">sinangurcan26@hotmail.com
+  -  [<img src="https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/sinan-gurcan/)  
  
 
