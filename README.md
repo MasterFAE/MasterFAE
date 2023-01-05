@@ -18,19 +18,31 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
   
   <hr />
   
-⚡Techs I use:
-  * TypeScript
-  * React
-  * Node
-  * Express
-  * Next
-  * Prisma
-  * Nest
-  * Socket.io
-  * Tailwind
-  
-  <hr />
+🔨 Languages
+  * *Typescript* (main)
+  * *Javascript*
+  * *Java*
 
+ <hr />
+
+🖼️ Front End
+  * *HTML,CSS*
+  * *React*
+  * *Next*
+  * *Tailwind*
+
+ <hr />
+
+💾 Back End
+  * *NestJS*
+  * *Prisma*
+  * *PostgreSQL*
+  * *Mongo*
+  * *Socket.io*
+  * *Express*
+ 
+ <hr />
+ 
 📫 Contact:
 * <img src="https://unpkg.com/simple-icons@7.15.0/icons/gmail.svg" height="22" alt="mail" align="center"> sinangurcan26@hotmail.com
 * [<img src="https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg" alt='linkedin' height='22' align="center">](https://www.linkedin.com/in/sinan-gurcan/)  
