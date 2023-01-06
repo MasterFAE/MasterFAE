@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Sinan Gürcan
-Hey, my name is Sinan. I'm full-stack software developer living in Turkey.
+### 🎉 Welcome to my profile!
+Hey, my name is Sinan. I'm a full-stack software developer living in Turkey.
 I'm 21 years old and currently studying Computer Engineering in Eskisehir Technical University.
+
   
   <hr />
   
