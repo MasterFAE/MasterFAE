@@ -45,7 +45,7 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
  <hr />
  
  📝 Recent Projects
- * [Meal Reservation Website](https://estu-yemekhane.vercel.app/)
+ * [Meal Reservation Website](https://estu-yemekhane.vercel.app/) (Demo Username: test / Password: 123)
  * [Mockup E-Commerce Website](https://fae-ecommerce.vercel.app/)
  
 📫 Contact:
