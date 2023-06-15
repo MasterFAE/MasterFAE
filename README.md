@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 🎉 Welcome to my profile!
 Hey, my name is Sinan. I'm a full-stack software developer living in Turkey.
-I'm 21 years old and currently studying Computer Engineering in Eskisehir Technical University.
+I'm 22 years old and currently studying Computer Engineering in Eskisehir Technical University.
 
   
   <hr />
@@ -22,7 +22,6 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
 🔨 Languages
   * *Typescript* (main)
   * *Javascript*
-  * *Java*
 
  <hr />
 
@@ -38,7 +37,6 @@ I'm 21 years old and currently studying Computer Engineering in Eskisehir Techni
   * *NestJS*
   * *Prisma*
   * *PostgreSQL*
-  * *Mongo*
   * *Socket.io*
   * *Express*
  
