@@ -1,53 +1,19 @@
-<!--
-**MasterFAE/MasterFAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🎉 Welcome to my profile!
 Hey, my name is Sinan. I'm a full-stack software developer living in Turkey.
-I'm 22 years old and currently studying Computer Engineering in Eskisehir Technical University.
+I'm 23 years old and currently studying Computer Engineering in Eskisehir Technical University.
 
-  
-  <hr />
-  
-🔨 Languages
-  * *Typescript* (main)
-  * *Javascript*
+🔧 I mostly create my projects using Typescript with NestJS & NextJS along with the technologies such as PostgreSQL, Prisma, Socket.io, gRPC, Docker.
 
- <hr />
+🪴 Currently interested in Cloud Native Concept, Microservice Architectures, DevOps Tools
 
-🖼️ Front End
-  * *HTML,CSS*
-  * *React*
-  * *Next*
-  * *Tailwind*
-
- <hr />
-
-💾 Back End
-  * *NestJS*
-  * *Prisma*
-  * *PostgreSQL*
-  * *Socket.io*
-  * *Express*
- 
- <hr />
- 
  📝 Recent Projects
+ * [Duovoid](https://duovoid.com)
+ * [Cloud Native Todo App](https://github.com/MasterFAE/nest-todo-cloudnative)
  * [Meal Reservation Website](https://estu-yemekhane.vercel.app/) (Demo Username: test / Password: 123)
  * [Mockup E-Commerce Website](https://fae-ecommerce.vercel.app/)
  
 📫 Contact:
-* <img src="https://unpkg.com/simple-icons@7.15.0/icons/gmail.svg" height="22" alt="mail" align="center"> sinangurcan26@hotmail.com
-* [<img src="https://unpkg.com/simple-icons@7.15.0/icons/linkedin.svg" alt='linkedin' height='22' align="center">](https://www.linkedin.com/in/sinan-gurcan/)  
+* [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt='linkedin' height='22' align="center">](https://www.linkedin.com/in/sinan-gurcan/)  
  
 
