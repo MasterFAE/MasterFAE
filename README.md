@@ -8,7 +8,8 @@ I'm 23 years old and currently studying Computer Engineering in Eskisehir Techni
 🪴 Currently interested in Cloud Native Concept, Microservice Architectures, DevOps Tools
 
  📝 Recent Projects
- * [Duovoid](https://duovoid.com)
+ * [Sharl - Online Library & Progress Tracker](https://www.sharl.app)
+ * [Duovoid - Find Duos For Online Games](https://duovoid.com)
  * [Cloud Native Todo App](https://github.com/MasterFAE/nest-todo-cloudnative)
  * [Meal Reservation Website](https://estu-yemekhane.vercel.app/) (Demo Username: test / Password: 123)
  * [Mockup E-Commerce Website](https://fae-ecommerce.vercel.app/)
