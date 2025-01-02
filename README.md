@@ -1,12 +1,3 @@
-
-### 🎉 Welcome to my profile!
-Hey, my name is Sinan. I'm a full-stack software developer living in Turkey.
-I'm 23 years old and currently studying Computer Engineering in Eskisehir Technical University.
-
-🔧 I mostly create my projects using Typescript with NestJS & NextJS along with the technologies such as PostgreSQL, Prisma, Socket.io, gRPC, Docker.
-
-🪴 Currently interested in Cloud Native Concept, Microservice Architectures, DevOps Tools
-
  📝 Recent Projects
  * [Sharl - Online Library & Progress Tracker](https://www.sharl.app)
  * [Duovoid - Find Duos For Online Games](https://duovoid.com)
