@@ -1,4 +1,5 @@
  📝 Recent Projects
+ * [Tarzi - Telegram Pub-Sub Messager](https://tarzi.sharl.app/)
  * [Esports Pick-em App](https://pickem.sharl.app/)
  * [Sharl - Online Library & Progress Tracker](https://www.sharl.app)
  * [Duovoid - Find Duos For Online Games](https://duovoid.com)
